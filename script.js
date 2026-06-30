@@ -28,7 +28,7 @@ var projects = [
   {
     title: "GitExplorer",
     description: "Real-time weather app using OpenWeather API with city search.",
-    github: "endsem-project4.vercel.app"
+    github: "https://endsem-project4.vercel.app/"
   },
   {
     title: "Kanban Task Board",
