@@ -23,12 +23,12 @@ var projects = [
   {
     title: "ExpenceTracker",
     description: "A productivity app to manage daily tasks with drag-and-drop support.",
-    github: "https://github.com/shubhadityasirothia-spec/ExpenceTracker.git"
+    github: "https://expence-tracker-indol-three.vercel.app/"
   },
   {
     title: "GitExplorer",
     description: "Real-time weather app using OpenWeather API with city search.",
-    github: "https://github.com/AbhilashReddy012/EndsemProject4.git"
+    github: "endsem-project4.vercel.app"
   },
   {
     title: "Kanban Task Board",
