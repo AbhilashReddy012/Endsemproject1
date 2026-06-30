@@ -18,22 +18,22 @@ var projects = [
   {
     title: "Live News Feed",
     description: "A full-stack e-commerce platform with cart, login, and payment integration.",
-    link: "https://github.com/shubhadityasirothia-spec/Live-News-Feed.git"
+    github: "https://github.com/shubhadityasirothia-spec/Live-News-Feed.git"
   },
   {
     title: "ExpenceTracker",
     description: "A productivity app to manage daily tasks with drag-and-drop support.",
-    link: "https://github.com/shubhadityasirothia-spec/ExpenceTracker.git"
+    github: "https://github.com/shubhadityasirothia-spec/ExpenceTracker.git"
   },
   {
     title: "GitExplorer",
     description: "Real-time weather app using OpenWeather API with city search.",
-    link: "https://github.com/AbhilashReddy012/EndsemProject4.git"
+    github: "https://github.com/AbhilashReddy012/EndsemProject4.git"
   },
   {
     title: "Kanban Task Board",
     description: "A real-time chat app built with Socket.io and Node.js backend.",
-    link: "https://github.com/AbhilashReddy012/EndsemProject6.git"
+    github: "https://github.com/AbhilashReddy012/EndsemProject6.git"
   }
 ];
 
