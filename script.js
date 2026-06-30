@@ -18,22 +18,22 @@ var projects = [
   {
     title: "Live News Feed",
     description: "A full-stack e-commerce platform with cart, login, and payment integration.",
-    github: "https://github.com"
+    link: "live-news-feed-taupe.vercel.app"
   },
   {
     title: "ExpenceTracker",
     description: "A productivity app to manage daily tasks with drag-and-drop support.",
-    github: "https://github.com"
+    link: "https://expence-tracker-indol-three.vercel.app/"
   },
   {
     title: "GitExplorer",
     description: "Real-time weather app using OpenWeather API with city search.",
-    github: "https://github.com"
+    link: "https://endsem-project4.vercel.app/"
   },
   {
     title: "Kanban Task Board",
     description: "A real-time chat app built with Socket.io and Node.js backend.",
-    github: "https://github.com"
+    link: "https://endsem-project6.vercel.app/"
   }
 ];
 
