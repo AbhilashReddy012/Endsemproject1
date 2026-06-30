@@ -33,7 +33,7 @@ var projects = [
   {
     title: "Kanban Task Board",
     description: "A real-time chat app built with Socket.io and Node.js backend.",
-    github: "https://github.com/AbhilashReddy012/EndsemProject6.git"
+    github: "https://endsem-project6.vercel.app/"
   }
 ];
 
